@@ -1,0 +1,14 @@
+[package]
+name = "myuri-rs"
+version = "5.1.0"
+edition = "2021"
+license = "LGPL-3.0-or-later"
+description = "Rust port of Myuri (JWriter20/Myuri) and cursory mouse trajectory factory"
+repository = "https://github.com/2noScript/myuri-rs"
+homepage = "https://github.com/2noScript/myuri-rs"
+readme = "README.md"
+keywords = ["playwright", "humanize", "mouse", "anti-detection", "automation"]
+categories = ["web-programming", "simulation"]
+
+[dependencies]
+thiserror = "2"
